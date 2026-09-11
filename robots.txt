@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://claudiamolinethomes.com/sitemap.xml
